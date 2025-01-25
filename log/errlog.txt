@@ -1,0 +1,7 @@
+20250105	23:58:57	aa65221c-3373-486c-a2b2-d43d6a182d49	Error:Not Allowed by Cors
+20250106	00:02:23	48acb9d6-c17b-419d-84a4-8a54427d7db6	Error:Not Allowed by Cors
+20250107	17:31:24	0e89e23a-8c45-477a-8c9a-09e8ace8ea4d	Error:ENOENT: no such file or directory, stat 'C:\Users\namal\OneDrive\Desktop\Real\Back\pract\loggers\routes\views\subdir\test.html'
+20250108	12:47:19	1c403eb8-791a-4e83-aaef-bbf259f74108	Error:Not Allowed by Cors
+20250108	12:47:19	f5739944-ecfc-4a3d-a5f8-4a29f255904a	Error:Not Allowed by Cors
+20250108	12:48:48	327c686a-a482-4fb4-a319-77c67e14dc53	Error:Not Allowed by Cors
+20250108	12:48:48	1328e13c-fc10-42c9-9232-8a740b8783f0	Error:Not Allowed by Cors
